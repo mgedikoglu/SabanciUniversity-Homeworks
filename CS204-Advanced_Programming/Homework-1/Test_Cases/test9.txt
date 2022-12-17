@@ -1,0 +1,5 @@
+10 10
+sadds 2 3 l
+sadds 2 3
+sadds 2 3 l CCW
+sadds 2 3 l CW s
